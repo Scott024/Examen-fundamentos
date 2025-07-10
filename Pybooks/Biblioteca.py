@@ -1,3 +1,4 @@
+# Biblioteca.py
 import random
 
 # Diccionarios de productos y stock
